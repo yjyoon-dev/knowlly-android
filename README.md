@@ -22,9 +22,12 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
 - Multi Modules
   - app
   - domain
+  - data
   - local
   - remote
   - presentation
+  - core-exception
+  - log
   
 ### 스택
 
