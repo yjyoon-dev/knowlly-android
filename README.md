@@ -10,9 +10,13 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
 
 # 서비스 소개
 
-![image](https://user-images.githubusercontent.com/72238126/183277546-92d59871-d355-461f-b06d-06937d3f14be.png)
+<p>
+<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048460-563f9c79-c7ee-4025-aa0a-ff57d7ddc9f9.png"/>
+<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048481-b09e0bbe-e7dc-4fab-b4b9-36c568c99b9a.jpg"/>
+<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048468-9a22dd67-71de-481c-8aea-b28e9a008932.png"/>
+<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048475-bf9c6960-d47a-49ac-ac65-5f9ef517fbf0.png"/>
 
-![image](https://user-images.githubusercontent.com/72238126/183277557-c4b2aa14-610a-40ed-aca0-83d57b6b9d84.png)
+<p/>
 
 <br>
 
@@ -77,6 +81,10 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
 </p>
 
 <br>
+
+# 팀원
+
+<img width="70%" src="https://user-images.githubusercontent.com/72238126/188048518-ce1ba540-8446-4aab-92f6-c8fc2726b03b.png"/>
 
 # 발표자료
 
