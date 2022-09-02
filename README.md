@@ -64,6 +64,12 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
   
 <br>
 
+# 팀원
+
+<img width="70%" src="https://user-images.githubusercontent.com/72238126/188048518-ce1ba540-8446-4aab-92f6-c8fc2726b03b.png"/>
+
+<br>
+
 # UI/UX
 
 <p>
@@ -81,10 +87,6 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
 </p>
 
 <br>
-
-# 팀원
-
-<img width="70%" src="https://user-images.githubusercontent.com/72238126/188048518-ce1ba540-8446-4aab-92f6-c8fc2726b03b.png"/>
 
 # 발표자료
 
