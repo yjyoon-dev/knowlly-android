@@ -4,6 +4,8 @@
 
 Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트로, 기존의 딱딱하고 지루했던 자기개발 방식에서 벗어나 유저들끼리 가볍게 관심있는 지식을 배우고 함께 성장할 수 있는 양방향 지식 공유 플랫폼입니다. 서로 배우고 가르치며 성장하는 자신을 발견해보세요!
 
+[Play Store 링크](https://play.google.com/store/apps/details?id=kr.co.knowledgerally)
+
 <br>
 
 # 서비스 소개
