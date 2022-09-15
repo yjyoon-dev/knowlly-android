@@ -9,14 +9,7 @@ Knowlly(널리)는 YAPP 20기 올라운더 2팀에서 진행한 팀 프로젝트
 <br>
 
 # 서비스 소개
-
-<p>
-<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048460-563f9c79-c7ee-4025-aa0a-ff57d7ddc9f9.png"/>
-<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048481-b09e0bbe-e7dc-4fab-b4b9-36c568c99b9a.jpg"/>
-<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048468-9a22dd67-71de-481c-8aea-b28e9a008932.png"/>
-<img width="47%" src="https://user-images.githubusercontent.com/72238126/188048475-bf9c6960-d47a-49ac-ac65-5f9ef517fbf0.png"/>
-
-<p/>
+![image](https://www.yapp.co.kr/assets/project/20_content_knowlly.png)
 
 <br>
 
